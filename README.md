@@ -1,6 +1,6 @@
 # Matthew Miller
 
-Endpoint engineer. I run device management, patching, and vulnerability remediation for a ~270-endpoint fleet, and I automate as much of it as the tools allow — lately by teaching AI agents to operate the runbooks themselves, with approval gates where production gets touched.
+Endpoint engineer. I run device management, patching, and vulnerability remediation for a ~500-endpoint fleet, and I automate as much of it as the tools allow — lately by teaching AI agents to operate the runbooks themselves, with approval gates where production gets touched.
 
 **Stack I work in daily:** Microsoft Intune · Autopilot · Microsoft Graph API · PowerShell · Automox · ScreenConnect · Freshservice · Entra ID · Rapid7 · CrowdStrike · Power Automate · Claude Code / Codex / MCP
 
